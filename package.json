@@ -1,0 +1,25 @@
+{
+  "name": "big-white-marine-web",
+  "version": "1.0.0",
+  "description": "A website built for Big White Marine",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "nodemon ./start.js",
+    "start": "node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connormarion/big-white-marine-web.git"
+  },
+  "author": "Connor Marion, Charles Truluck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connormarion/big-white-marine-web/issues"
+  },
+  "homepage": "https://github.com/connormarion/big-white-marine-web#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  }
+}
