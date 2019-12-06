@@ -1,5 +1,42 @@
 body {
-    margin-top: 50px;
     background-color: #222222;
-    /* font-family: 'Roboto', sans-serif; */
+}
+
+nav {
+    padding: 0 !important;
+    background-color: #001;
+    background-size: auto;
+    height: 100px;
+}
+
+nav ul li a {
+    font-size: 14px;
+}
+
+nav .nav-items {
+    margin-top: 17px !important;
+}
+
+.logo_svg {
+    margin-top: -2.5px !important;
+    width: 300px !important;
+    height: 100px !important;
+}
+
+#intro-container {
+    width: 100%;
+    height: 50em;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* .picture-bg {
+    margin-right: none !important;
+    color: white;
+    text-align: center;
+} */
+
+h1 {
+    width: auto;
 }
