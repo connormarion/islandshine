@@ -55,6 +55,10 @@ p {
 .btn-large {
     background-color: #009fff !important;
   }
+
+  .btn-floating {
+    background-color:  #009fff  !important;
+  }
   
   .page-footer {
       background-color: #000;
