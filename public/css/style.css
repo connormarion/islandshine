@@ -1,16 +1,18 @@
 body {
-    background-color: #fff;
+    background-color: #FFF;
 }
 
 nav {
     padding: 0 !important;
-    background-color: #001;
+    background-color: #FFF;
     background-size: auto;
-    height: 100px;
+    height: 120px;
 }
 
 nav ul li a {
     font-size: 14px;
+    color: #000;
+    padding-top:10px;
 }
 
 nav .nav-items {
@@ -18,7 +20,7 @@ nav .nav-items {
 }
 
 .logo_svg {
-    margin-top: -2.5px !important;
+    margin-top: 2.5px !important;
     width: 300px !important;
     height: 100px !important;
 }
@@ -38,32 +40,32 @@ nav .nav-items {
 } */
 
 h1 {
-    color: #FFF;
+    color: #88C0C5;
     font-size:45px;
 }
 
 h3 {
-    color: #000;
+    color: rgb(42, 139, 148);
 }
 h4 {
-    color: #0D7CB3;
+    color: #88C0C5;
 }
 p {
     color: #FFF;
 }
 
 .btn-large {
-    background-color: #0D7CB3 !important;
+    background-color: #E7B84D !important;
   }
 
   .btn-floating {
-    background-color: #0D7CB3  !important;
+    background-color: #E7B84D  !important;
   }
   
   .page-footer {
-      background-color: #000;
+      background-color: #E7B84D;
   }
 
   blockquote {
-    border-left: 5px solid #0D7CB3;
+    border-left: 5px solid #E7B84D;
   }
