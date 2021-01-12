@@ -10,7 +10,7 @@ nav {
 }
 
 nav ul li a {
-    font-size: 14px;
+    font-size: 13px;
     color: #000;
     padding-top:10px;
 }
@@ -40,7 +40,7 @@ nav .nav-items {
 } */
 
 h1 {
-    color: #88C0C5;
+    color: #009ef3;
     font-size:45px;
 }
 
@@ -48,24 +48,24 @@ h3 {
     color: rgb(42, 139, 148);
 }
 h4 {
-    color: #88C0C5;
+    color: #009ef3;
 }
 p {
     color: #FFF;
 }
 
 .btn-large {
-    background-color: #E7B84D !important;
+    background-color: #ead55c !important;
   }
 
   .btn-floating {
-    background-color: #E7B84D  !important;
+    background-color: #ead55c  !important;
   }
   
   .page-footer {
-      background-color: #E7B84D;
+      background-color: #ead55c;
   }
 
   blockquote {
-    border-left: 5px solid #E7B84D;
+    border-left: 5px solid #ead55c;
   }
