@@ -20,6 +20,6 @@
   "homepage": "https://github.com/connormarion/big-white-marine-web#readme",
   "dependencies": {
     "ejs": "^3.0.1",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
